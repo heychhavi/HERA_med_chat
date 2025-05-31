@@ -208,6 +208,4 @@ This model is for research and educational purposes only. It should not be used 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-**Built with ❤️ for advancing AI in healthcare** | **Star ⭐ if this helps your research!**
